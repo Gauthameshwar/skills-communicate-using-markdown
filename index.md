@@ -8,3 +8,5 @@ We are now adding some text here.
 ## Now we are in a sub-header
 
 bla bla some stuff. 
+
+![Image of Yaktocat|300x300](https://octodex.github.com/images/yaktocat.png)
