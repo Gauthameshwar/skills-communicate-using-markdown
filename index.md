@@ -10,8 +10,14 @@ bla bla some stuff.
 
 ![Image of Yaktocat|300x300](https://octodex.github.com/images/yaktocat.png)
 
-## Adding some codes in Md
+## Adding some codes in Md (Step-3)
 
 ```julia
 println("Julia is amazing! I love her more than Python")
 ```
+
+## Jotting down a to-do lost (Step-4)
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
